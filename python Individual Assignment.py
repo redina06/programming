@@ -1,5 +1,4 @@
-#Rediet Goshu
-#ID dbu1601573
+
 #1) write a program in python to generate fibonacci series for a given number?
 
 def fibonacci_series(n):
