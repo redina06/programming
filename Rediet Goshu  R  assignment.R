@@ -1,6 +1,4 @@
-                                       # REDIET GOSHU
-                                      #ID  DBU1601573
-                   # R programming assignment
+                                
              
 
                #### 1) Vectors m and n
